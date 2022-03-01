@@ -24,8 +24,8 @@ app.get('/user/:id', (req, res) => {
     age: 19,
     birthday: '09/07',
     state: 'Pernambuco',
-    backend_stacks: ['JavaScript', 'NodeJS', 'AdonisJS', 'AWS Lambda', 'SQL'],
-    frontend_stacks: ['HTML', 'CSS', 'ReactJS', 'AngularJS', 'Angular 9'],
+    backend_stacks: ['JavaScript', 'NodeJS', 'AdonisJS', 'AWS Lambda', 'SQL', 'NestJS', 'Socket.io'],
+    frontend_stacks: ['HTML', 'CSS', 'ReactJS', 'AngularJS', 'Angular 9', 'JQuery', 'Socket.io'],
     soft_skills: ['Team work', 'Responsability', 'Determined', 'Extroverted', 'Able to learn new technologies']
   };
   
